@@ -5,10 +5,18 @@
 <a href="https://book-it-beta-six.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live_Demo-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
-<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" />
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logoColor=white&logo=supabase&color=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="Clerk Auth" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logoColor=white&logo=vercel&color=black" alt="Vercel" />
+  <br/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Shadcn/UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=black" alt="Shadcn/UI" />
+  <img src="https://img.shields.io/badge/-TanStack%20Query-black?style=for-the-badge&logoColor=white&logo=reactquery&color=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="Zod" />
+  <img src="https://img.shields.io/badge/-React%20Hook%20Form-black?style=for-the-badge&logoColor=white&logo=reacthookform&color=EC5990" alt="React Hook Form" />
 
 <h2>🏝️ BookIt – Fullstack Booking Platform</h2>
 
@@ -38,6 +46,13 @@ BookIt is a fullstack, end-to-end web application built to fulfill and exceed th
 Built with Next.js, Supabase, and Clerk, this project proves the ability to integrate disparate, best-in-class services into a single, cohesive, and secure application.
 
 ---
+## 🔗 <a name="links">Links</a>
+
+-   **Live Demo URL:** [https://book-it-beta-six.vercel.app/](https://book-it-beta-six.vercel.app/)
+-   **GitHub Repository URL:** [https://github.com/sukijaa/BookIt](https://github.com/sukijaa/BookIt)
+  
+---
+
 
 ## ⚙️ Tech Stack<a name="tech-stack"></a>
 
